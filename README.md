@@ -20,12 +20,14 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
+<img width="1029" height="585" alt="595319747-83b0b096-48d7-459a-a903-f34898a463ff" src="https://github.com/user-attachments/assets/7cb3aac3-fe2d-4568-a973-17ffbcc18ed9" />
 
  
 ## Program
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
+<img width="637" height="393" alt="595319577-d68696e8-c7ae-4aeb-a7c7-9c81e36efb7c" src="https://github.com/user-attachments/assets/3c279a4a-e6c3-418a-abae-4ce8d31dedba" />
 
 ## Result :
-
+Output fetched successfully.
